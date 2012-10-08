@@ -1,4 +1,0 @@
-dropping.github.com
-===================
-
-homepage
